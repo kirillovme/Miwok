@@ -1,6 +1,6 @@
 # Miwok
  
-This is the miwok learning android application.
+This is the miwok language learning android application.
 
 Screen 1. Main screen.
 ![image](https://user-images.githubusercontent.com/54503407/146370053-d519f6d6-63a9-42f6-9b99-1b48ed6f9884.png)
